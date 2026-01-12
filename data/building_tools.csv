@@ -1,0 +1,3 @@
+id,name,description,part_1_id,part_1_name,part_1_desc,part_2_id,part_2_name,part_2_desc,build_location,unlock_condition,next_stage
+portal_gate,Portal Gate,A magical portal that leads to the next world,building_tool_part_1,Portal Frame,The frame structure of the portal,building_tool_part_2,Portal Core,The magical core that powers the portal,center_of_ruined_zone,collect_both_parts,stage_2
+

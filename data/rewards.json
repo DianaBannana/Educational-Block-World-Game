@@ -1,0 +1,79 @@
+{
+  "rewards": [
+    {
+      "id": "coin_small",
+      "name": "Small Coin",
+      "type": "currency",
+      "value": 1,
+      "description": "A small golden coin",
+      "icon": "coin_small.png"
+    },
+    {
+      "id": "coin_medium",
+      "name": "Medium Coin",
+      "type": "currency",
+      "value": 5,
+      "description": "A medium golden coin",
+      "icon": "coin_medium.png"
+    },
+    {
+      "id": "coin_large",
+      "name": "Large Coin",
+      "type": "currency",
+      "value": 10,
+      "description": "A large golden coin",
+      "icon": "coin_large.png"
+    },
+    {
+      "id": "diamond_small",
+      "name": "Small Diamond",
+      "type": "gem",
+      "value": 5,
+      "description": "A sparkling small diamond",
+      "icon": "diamond_small.png"
+    },
+    {
+      "id": "diamond_large",
+      "name": "Large Diamond",
+      "type": "gem",
+      "value": 20,
+      "description": "A sparkling large diamond",
+      "icon": "diamond_large.png"
+    },
+    {
+      "id": "food_apple",
+      "name": "Apple",
+      "type": "food",
+      "value": 1,
+      "description": "A red apple that restores health",
+      "health_restore": 1,
+      "icon": "food_apple.png"
+    },
+    {
+      "id": "food_bread",
+      "name": "Bread",
+      "type": "food",
+      "value": 2,
+      "description": "Fresh bread that restores health",
+      "health_restore": 2,
+      "icon": "food_bread.png"
+    },
+    {
+      "id": "building_tool_part_1",
+      "name": "Portal Frame",
+      "type": "building_tool",
+      "description": "First part of the portal to the next world",
+      "icon": "portal_frame.png",
+      "required_for": "portal_gate"
+    },
+    {
+      "id": "building_tool_part_2",
+      "name": "Portal Core",
+      "type": "building_tool",
+      "description": "Second part that completes the portal gate",
+      "icon": "portal_core.png",
+      "required_for": "portal_gate"
+    }
+  ]
+}
+

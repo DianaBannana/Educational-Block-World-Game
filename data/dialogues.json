@@ -1,0 +1,83 @@
+{
+  "dialogues": [
+    {
+      "id": "ethan_intro",
+      "character": "ethan",
+      "text": "I need to help Pug find his friends and collect resources!",
+      "voice_file": "ethan_intro.wav"
+    },
+    {
+      "id": "pug_greeting",
+      "character": "pug",
+      "text": "Woof! Thank you for helping me find my friends!",
+      "voice_file": "pug_greeting.wav"
+    },
+    {
+      "id": "pug_puzzle_help",
+      "character": "pug",
+      "text": "Woof woof! I think I can help with this puzzle!",
+      "voice_file": "pug_puzzle_help.wav"
+    },
+    {
+      "id": "brak_greeting",
+      "character": "brak",
+      "text": "Meow! I'm Brak. I can give you hints if you need help!",
+      "voice_file": "brak_greeting.wav"
+    },
+    {
+      "id": "brak_hint",
+      "character": "brak",
+      "text": "Don't worry! Try thinking about it differently. Here's a hint!",
+      "voice_file": "brak_hint.wav"
+    },
+    {
+      "id": "brak_encourage",
+      "character": "brak",
+      "text": "You're doing great! Keep trying!",
+      "voice_file": "brak_encourage.wav"
+    },
+    {
+      "id": "skibidi_encounter",
+      "character": "skibidi",
+      "text": "Grrr! You can't pass unless you solve my puzzle!",
+      "voice_file": "skibidi_encounter.wav"
+    },
+    {
+      "id": "skibidi_defeated",
+      "character": "skibidi",
+      "text": "Nooo! You got me! But I'll be back!",
+      "voice_file": "skibidi_defeated.wav"
+    },
+    {
+      "id": "treasure_chest_found",
+      "character": "system",
+      "text": "You found a treasure chest! Open it to get rewards!",
+      "voice_file": "treasure_found.wav"
+    },
+    {
+      "id": "puzzle_correct",
+      "character": "system",
+      "text": "Correct! Great job!",
+      "voice_file": "puzzle_correct.wav"
+    },
+    {
+      "id": "puzzle_wrong",
+      "character": "system",
+      "text": "Not quite right. Let Brak help you!",
+      "voice_file": "puzzle_wrong.wav"
+    },
+    {
+      "id": "building_tool_collected",
+      "character": "system",
+      "text": "You collected a building tool part! Collect both parts to build the portal!",
+      "voice_file": "building_tool_collected.wav"
+    },
+    {
+      "id": "portal_complete",
+      "character": "system",
+      "text": "Amazing! The portal is complete! You can now travel to the next world!",
+      "voice_file": "portal_complete.wav"
+    }
+  ]
+}
+

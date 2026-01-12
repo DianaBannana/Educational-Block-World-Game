@@ -1,0 +1,43 @@
+{
+  "building_tools": [
+    {
+      "id": "portal_gate",
+      "name": "Portal Gate",
+      "description": "A magical portal that leads to the next world",
+      "parts_required": [
+        {
+          "part_id": "building_tool_part_1",
+          "part_name": "Portal Frame",
+          "description": "The frame structure of the portal"
+        },
+        {
+          "part_id": "building_tool_part_2",
+          "part_name": "Portal Core",
+          "description": "The magical core that powers the portal"
+        }
+      ],
+      "build_location": "center_of_ruined_zone",
+      "unlock_condition": "collect_both_parts",
+      "next_stage": "stage_2"
+    }
+  ],
+  "building_recipes": [
+    {
+      "recipe_id": "portal_gate_recipe",
+      "result": "portal_gate",
+      "ingredients": [
+        {
+          "item_id": "building_tool_part_1",
+          "quantity": 1
+        },
+        {
+          "item_id": "building_tool_part_2",
+          "quantity": 1
+        }
+      ],
+      "build_time": 3,
+      "description": "Combine the Portal Frame and Portal Core to create the Portal Gate"
+    }
+  ]
+}
+

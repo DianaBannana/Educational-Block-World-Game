@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "id": "ethan",
+      "name": "Ethan",
+      "type": "player",
+      "description": "The main character you play as",
+      "customization": {
+        "hair_colors": ["brown", "blonde", "black"],
+        "clothes_colors": ["red", "blue", "green"],
+        "helmet": true,
+        "sword_unlocked": false
+      },
+      "animations": ["walk", "jump", "attack", "idle", "interact"],
+      "sounds": {
+        "footstep1": "footstep1.mp3",
+        "footstep2": "footstep2.mp3",
+        "attack": "attack.wav"
+      },
+      "stats": {
+        "health": 5,
+        "coins": 0,
+        "level": 1
+      }
+    },
+    {
+      "id": "pug",
+      "name": "Pug",
+      "type": "companion",
+      "description": "Japanese Chin dog, white with black spots. Follows Ethan and helps with puzzles",
+      "appearance": "white with black spots",
+      "animations": ["walk", "jump", "sit", "wag_tail", "interact"],
+      "sounds": {
+        "bark1": "bark1.mp3",
+        "bark2": "bark2.mp3",
+        "happy": "happy.wav"
+      },
+      "abilities": ["puzzle_hint", "item_finder"]
+    },
+    {
+      "id": "brak",
+      "name": "Brak",
+      "type": "friendly_npc",
+      "description": "Friendly black cat who gives hints when puzzles fail",
+      "appearance": "black",
+      "animations": ["walk", "jump", "talk", "idle"],
+      "sounds": {
+        "meow1": "meow1.mp3",
+        "meow2": "meow2.mp3",
+        "hint": "hint.wav"
+      },
+      "abilities": ["give_hints", "encourage"]
+    },
+    {
+      "id": "skibidi",
+      "name": "Skibidi",
+      "type": "enemy",
+      "description": "Enemy cat zombie, leader of enemy gang. Green dark with red eyes",
+      "appearance": "green_dark with red eyes",
+      "animations": ["walk", "jump", "attack", "idle"],
+      "sounds": {
+        "growl1": "growl1.wav",
+        "attack": "attack.wav",
+        "laugh": "laugh.wav"
+      },
+      "combat_type": "puzzle_based",
+      "health": 3
+    }
+  ]
+}
+

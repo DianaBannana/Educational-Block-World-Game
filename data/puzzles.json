@@ -1,0 +1,112 @@
+{
+  "puzzles": [
+    {
+      "id": "puzzle_1",
+      "name": "Word Match - Apple",
+      "type": "picture_word_matching",
+      "description": "Match the picture to the correct word",
+      "question": "What is this?",
+      "picture": "apple.png",
+      "options": ["Apple", "Orange", "Banana", "Grape"],
+      "correct_answer": 0,
+      "voice_prompt": "Look at the picture. Which word matches? Apple, Orange, Banana, or Grape?",
+      "reward": {
+        "coins": 5,
+        "diamonds": 1
+      },
+      "hint": "It's red and grows on trees!",
+      "enemy_target": "skibidi",
+      "damage": 1
+    },
+    {
+      "id": "puzzle_2",
+      "name": "Word Match - Dog",
+      "type": "picture_word_matching",
+      "description": "Match the picture to the correct word",
+      "question": "What animal is this?",
+      "picture": "dog.png",
+      "options": ["Dog", "Cat", "Bird", "Fish"],
+      "correct_answer": 0,
+      "voice_prompt": "What animal is in the picture? Dog, Cat, Bird, or Fish?",
+      "reward": {
+        "coins": 5,
+        "diamonds": 1
+      },
+      "hint": "It barks and wags its tail!",
+      "enemy_target": "skibidi",
+      "damage": 1
+    },
+    {
+      "id": "puzzle_3",
+      "name": "Multiple Choice - Colors",
+      "type": "multiple_choice",
+      "description": "Choose the correct answer",
+      "question": "What color do you get when you mix red and blue?",
+      "options": ["Purple", "Green", "Orange", "Yellow"],
+      "correct_answer": 0,
+      "voice_prompt": "Red plus blue makes what color? Purple, Green, Orange, or Yellow?",
+      "reward": {
+        "coins": 10,
+        "diamonds": 2
+      },
+      "hint": "Think of grapes!",
+      "enemy_target": "skibidi",
+      "damage": 1
+    },
+    {
+      "id": "puzzle_4",
+      "name": "Word Match - Tree",
+      "type": "picture_word_matching",
+      "description": "Match the picture to the correct word",
+      "question": "What is this?",
+      "picture": "tree.png",
+      "options": ["Tree", "Flower", "Grass", "Rock"],
+      "correct_answer": 0,
+      "voice_prompt": "Look at the picture. Is it a Tree, Flower, Grass, or Rock?",
+      "reward": {
+        "coins": 5,
+        "diamonds": 1
+      },
+      "hint": "It has leaves and branches!",
+      "enemy_target": "skibidi",
+      "damage": 1
+    },
+    {
+      "id": "puzzle_5",
+      "name": "Multiple Choice - Numbers",
+      "type": "multiple_choice",
+      "description": "Solve the math problem",
+      "question": "What is 3 + 2?",
+      "options": ["5", "4", "6", "7"],
+      "correct_answer": 0,
+      "voice_prompt": "What is three plus two? Five, Four, Six, or Seven?",
+      "reward": {
+        "coins": 10,
+        "diamonds": 2
+      },
+      "hint": "Count on your fingers!",
+      "enemy_target": "skibidi",
+      "damage": 1
+    },
+    {
+      "id": "puzzle_6",
+      "name": "Word Match - House",
+      "type": "picture_word_matching",
+      "description": "Match the picture to the correct word",
+      "question": "What is this?",
+      "picture": "house.png",
+      "options": ["House", "Car", "Boat", "Plane"],
+      "correct_answer": 0,
+      "voice_prompt": "What do you see? House, Car, Boat, or Plane?",
+      "reward": {
+        "coins": 5,
+        "diamonds": 1,
+        "building_tool_part": "part_1"
+      },
+      "hint": "People live in it!",
+      "enemy_target": "skibidi",
+      "damage": 1
+    }
+  ]
+}
+

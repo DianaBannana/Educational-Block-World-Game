@@ -1,0 +1,8 @@
+id,name,type,description,question,picture,options,correct_answer,voice_prompt,reward_coins,reward_diamonds,reward_building_tool,hint,enemy_target,damage
+puzzle_1,Word Match - Apple,picture_word_matching,Match the picture to the correct word,What is this?,apple.png,"Apple,Orange,Banana,Grape",0,"Look at the picture. Which word matches? Apple, Orange, Banana, or Grape?",5,1,,It's red and grows on trees!,skibidi,1
+puzzle_2,Word Match - Dog,picture_word_matching,Match the picture to the correct word,What animal is this?,dog.png,"Dog,Cat,Bird,Fish",0,"What animal is in the picture? Dog, Cat, Bird, or Fish?",5,1,,It barks and wags its tail!,skibidi,1
+puzzle_3,Multiple Choice - Colors,multiple_choice,Choose the correct answer,What color do you get when you mix red and blue?,,Purple,Green,Orange,Yellow,0,"Red plus blue makes what color? Purple, Green, Orange, or Yellow?",10,2,,Think of grapes!,skibidi,1
+puzzle_4,Word Match - Tree,picture_word_matching,Match the picture to the correct word,What is this?,tree.png,"Tree,Flower,Grass,Rock",0,"Look at the picture. Is it a Tree, Flower, Grass, or Rock?",5,1,,It has leaves and branches!,skibidi,1
+puzzle_5,Multiple Choice - Numbers,multiple_choice,Solve the math problem,What is 3 + 2?,,5,4,6,7,0,"What is three plus two? Five, Four, Six, or Seven?",10,2,,Count on your fingers!,skibidi,1
+puzzle_6,Word Match - House,picture_word_matching,Match the picture to the correct word,What is this?,house.png,"House,Car,Boat,Plane",0,"What do you see? House, Car, Boat, or Plane?",5,1,part_1,People live in it!,skibidi,1
+

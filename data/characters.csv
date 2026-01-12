@@ -1,0 +1,6 @@
+id,name,type,description,appearance,customization_hair,customization_clothes,customization_helmet,sword_unlocked,animations,sounds,abilities,health,coins,level
+ethan,Ethan,player,The main character you play as,,brown/blonde/black,red/blue/green,yes,no,"walk,jump,attack,idle,interact","footstep1.mp3,footstep2.mp3,attack.wav",,5,0,1
+pug,Pug,companion,Japanese Chin dog white with black spots. Follows Ethan and helps with puzzles,white with black spots,,,,"walk,jump,sit,wag_tail,interact","bark1.mp3,bark2.mp3,happy.wav","puzzle_hint,item_finder",,,
+brak,Brak,friendly_npc,Friendly black cat who gives hints when puzzles fail,black,,,,"walk,jump,talk,idle","meow1.mp3,meow2.mp3,hint.wav","give_hints,encourage",,,
+skibidi,Skibidi,enemy,Enemy cat zombie leader of enemy gang. Green dark with red eyes,green_dark with red eyes,,,,"walk,jump,attack,idle","growl1.wav,attack.wav,laugh.wav",puzzle_based,3,
+

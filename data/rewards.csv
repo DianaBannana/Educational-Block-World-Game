@@ -1,0 +1,11 @@
+id,name,type,value,description,icon,health_restore,required_for
+coin_small,Small Coin,currency,1,A small golden coin,coin_small.png,,
+coin_medium,Medium Coin,currency,5,A medium golden coin,coin_medium.png,,
+coin_large,Large Coin,currency,10,A large golden coin,coin_large.png,,
+diamond_small,Small Diamond,gem,5,A sparkling small diamond,diamond_small.png,,
+diamond_large,Large Diamond,gem,20,A sparkling large diamond,diamond_large.png,,
+food_apple,Apple,food,1,A red apple that restores health,food_apple.png,1,
+food_bread,Bread,food,2,Fresh bread that restores health,food_bread.png,2,
+building_tool_part_1,Portal Frame,building_tool,,First part of the portal to the next world,portal_frame.png,,portal_gate
+building_tool_part_2,Portal Core,building_tool,,Second part that completes the portal gate,portal_core.png,,portal_gate
+

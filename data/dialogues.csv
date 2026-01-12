@@ -1,0 +1,15 @@
+id,character,text,voice_file
+ethan_intro,ethan,I need to help Pug find his friends and collect resources!,ethan_intro.wav
+pug_greeting,pug,Woof! Thank you for helping me find my friends!,pug_greeting.wav
+pug_puzzle_help,pug,Woof woof! I think I can help with this puzzle!,pug_puzzle_help.wav
+brak_greeting,brak,Meow! I'm Brak. I can give you hints if you need help!,brak_greeting.wav
+brak_hint,brak,Don't worry! Try thinking about it differently. Here's a hint!,brak_hint.wav
+brak_encourage,brak,You're doing great! Keep trying!,brak_encourage.wav
+skibidi_encounter,skibidi,Grrr! You can't pass unless you solve my puzzle!,skibidi_encounter.wav
+skibidi_defeated,skibidi,Nooo! You got me! But I'll be back!,skibidi_defeated.wav
+treasure_chest_found,system,You found a treasure chest! Open it to get rewards!,treasure_found.wav
+puzzle_correct,system,Correct! Great job!,puzzle_correct.wav
+puzzle_wrong,system,Not quite right. Let Brak help you!,puzzle_wrong.wav
+building_tool_collected,system,You collected a building tool part! Collect both parts to build the portal!,building_tool_collected.wav
+portal_complete,system,Amazing! The portal is complete! You can now travel to the next world!,portal_complete.wav
+
